@@ -1,0 +1,15 @@
+/home/nunumarie3000/projects/courses/Code401/Lab08_Codealong10_25_22/lab08TheRemix/bin/Debug/net6.0/lab08TheRemix
+/home/nunumarie3000/projects/courses/Code401/Lab08_Codealong10_25_22/lab08TheRemix/bin/Debug/net6.0/lab08TheRemix.deps.json
+/home/nunumarie3000/projects/courses/Code401/Lab08_Codealong10_25_22/lab08TheRemix/bin/Debug/net6.0/lab08TheRemix.runtimeconfig.json
+/home/nunumarie3000/projects/courses/Code401/Lab08_Codealong10_25_22/lab08TheRemix/bin/Debug/net6.0/lab08TheRemix.dll
+/home/nunumarie3000/projects/courses/Code401/Lab08_Codealong10_25_22/lab08TheRemix/bin/Debug/net6.0/lab08TheRemix.pdb
+/home/nunumarie3000/projects/courses/Code401/Lab08_Codealong10_25_22/lab08TheRemix/obj/Debug/net6.0/lab08TheRemix.csproj.AssemblyReference.cache
+/home/nunumarie3000/projects/courses/Code401/Lab08_Codealong10_25_22/lab08TheRemix/obj/Debug/net6.0/lab08TheRemix.GeneratedMSBuildEditorConfig.editorconfig
+/home/nunumarie3000/projects/courses/Code401/Lab08_Codealong10_25_22/lab08TheRemix/obj/Debug/net6.0/lab08TheRemix.AssemblyInfoInputs.cache
+/home/nunumarie3000/projects/courses/Code401/Lab08_Codealong10_25_22/lab08TheRemix/obj/Debug/net6.0/lab08TheRemix.AssemblyInfo.cs
+/home/nunumarie3000/projects/courses/Code401/Lab08_Codealong10_25_22/lab08TheRemix/obj/Debug/net6.0/lab08TheRemix.csproj.CoreCompileInputs.cache
+/home/nunumarie3000/projects/courses/Code401/Lab08_Codealong10_25_22/lab08TheRemix/obj/Debug/net6.0/lab08TheRemix.dll
+/home/nunumarie3000/projects/courses/Code401/Lab08_Codealong10_25_22/lab08TheRemix/obj/Debug/net6.0/refint/lab08TheRemix.dll
+/home/nunumarie3000/projects/courses/Code401/Lab08_Codealong10_25_22/lab08TheRemix/obj/Debug/net6.0/lab08TheRemix.pdb
+/home/nunumarie3000/projects/courses/Code401/Lab08_Codealong10_25_22/lab08TheRemix/obj/Debug/net6.0/lab08TheRemix.genruntimeconfig.cache
+/home/nunumarie3000/projects/courses/Code401/Lab08_Codealong10_25_22/lab08TheRemix/obj/Debug/net6.0/ref/lab08TheRemix.dll
